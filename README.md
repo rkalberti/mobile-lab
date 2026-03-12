@@ -31,4 +31,4 @@ Registrar e organizar atividades realizadas durante a disciplina, acompanhando a
 
 ---
 
-✨ Repositório criado para fins de estudo e prática em desenvolvimento de aplicativos móveis.
+Repositório criado para fins de estudo e prática em desenvolvimento de aplicativos móveis.
